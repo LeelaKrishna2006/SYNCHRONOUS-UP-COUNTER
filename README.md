@@ -44,8 +44,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 /*
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: NALLAMALLI VENKATA CHETAN SATWIK
-RegisterNumber: 212224240100
+Developed by: ARANI VENKATA SUNDARA LEELA KRISHNA
+RegisterNumber: 212224240013
 */
 
 VHDL
